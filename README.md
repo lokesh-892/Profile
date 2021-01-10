@@ -1,21 +1,21 @@
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>
-I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche technologies and finding insights of data.
+I'm Lokesh. I'm a Data Analyst 👨‍💻 who is passionate about  learning niche technologies and finding insights of data.
 </p>
 
 <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
 
 ## 🔧 Technical Profile Summary
-* Python, Scala, SQL, Cobol
-* PostgreSQL, Oracle,Elastic search
-* Gitlab(CI/CD), Jenkins(CI/CD), GitHub, Jira
+* Python, Tableau, SQL, Excel,PowerBi
+* PostgreSQL, MySql
+* GitHub
 * AWS Lambda, s3, EMR, Quicksight, AWS Glue, Redshift, Elastic search, Dynamo DB
 * Jupyter notebook, Sagemaker Notebook
 *  Kibana Dashboard, Postman
-* Data migration testing, System testing, BDD Testing Framwork
+* Data migration testing, System testing, BDD Testing Framework
 * 💻 I’m currently working on cloud migration project in healthcare domain
-* 🌱 I’m currently learning python for data engineering and many cloud services in aws
+* 🌱 I’m currently learning python for data Analysis and many cloud services in aws
 * ⚡ Special Talent: Beat Boxing
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
@@ -39,8 +39,8 @@ I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche
  
 ##  Reach me on                                            
 <p align='center'>
-<a href="https://twitter.com/saicrystalheart"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/saikumar716"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/saikumar-andhavarapu/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/lokesh_892"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/lokesh.mamidisetti/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lokesh-mamidisetti-7b5a7aa4/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
