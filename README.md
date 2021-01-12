@@ -10,13 +10,10 @@ I'm Lokesh. I'm a Data Analyst 👨‍💻 who is passionate about  learning nic
 * Python, Tableau, SQL, Excel,PowerBi
 * PostgreSQL, MySql
 * GitHub
-* AWS Lambda, s3, EMR, Quicksight, AWS Glue, Redshift, Elastic search, Dynamo DB
-* Jupyter notebook, Sagemaker Notebook
-*  Kibana Dashboard, Postman
-* Data migration testing, System testing, BDD Testing Framework
+* Jupyter notebook
 * 💻 I’m currently working on cloud migration project in healthcare domain
 * 🌱 I’m currently learning python for data Analysis and many cloud services in aws
-* ⚡ Special Talent: Beat Boxing
+* ⚡ Special Talent: Badminton, Photography
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=black&textColor=black" />
@@ -30,10 +27,10 @@ I'm Lokesh. I'm a Data Analyst 👨‍💻 who is passionate about  learning nic
 </p>
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/saikumar716/saikumar716">
+<a href="https://github.com/lokesh-892">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar716&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/saikumar716/saikumar716">
+<a href="https://github.com/lokesh-892">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikumar716&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sai's GitHub Stats" />
 </a>
  
